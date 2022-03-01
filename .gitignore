@@ -1,0 +1,10 @@
+*/Logs
+*/Settings
+*/Project/DerivedData
+*/userPreferences*
+*/Resources/version.json
+*/Resources/Cache
+*/Plugins/Cache
+Data
+.DS_Store
+Build
